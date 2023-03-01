@@ -1,0 +1,28 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+#h{
+    text-decoration: underline;
+    font-family: Georgia;
+    color: whitesmoke;
+    
+}
+img,video{
+    border: 1px solid whitesmoke;
+    border-radius: 20px;
+    width: 100%;
+    padding: 10px;
+}
+p,li{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+   color: goldenrod;
+}
+#pp{
+    display: flex;
+    gap: 5px;
+}
+#pp>img{
+    width: 330px;
+}
